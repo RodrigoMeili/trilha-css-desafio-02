@@ -1,5 +1,7 @@
 # Trilha CSS Desafio 02
 
+![Imagem final do projeto](assets/images/Captura-de-tela.png)
+
 ## Sobre o Projeto
 Este projeto foi desenvolvido como parte de um desafio proposto para clonar uma página do YouTube a partir de um protótipo no Figma. O foco principal do desafio era utilizar FlexBox para organizar o layout da página, mas também envolveu a criação da página do zero utilizando HTML e CSS.
 
