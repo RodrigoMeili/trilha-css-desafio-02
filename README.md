@@ -29,4 +29,4 @@ Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melho
 
 ## Contato
 Rodrigo Meili - @rodrigo_meili
-Link do Projeto: https://github.com/seuusuario/trilha-css-desafio-02
+Link do Projeto: https://rodrigomeili.github.io/trilha-css-desafio-02/
